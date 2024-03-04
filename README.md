@@ -8,7 +8,7 @@ Spatial analysis on Vizgen Merscope data.
 ![Niches](images/niches.png)
 
 
-![Niche_composition](images/niche_compositions.png)
+![Niche_composition](images/niche_compositiions.png)
 
 
 ![samples_integration](images/sample_integration.png)
